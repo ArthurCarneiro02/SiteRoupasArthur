@@ -1,5 +1,5 @@
-header{
+.cabeçalho{
     background-color: rgb(68, 0, 255);
     color:white;
-
+display: flex;
 }
