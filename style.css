@@ -2,4 +2,5 @@
     background-color: rgb(68, 0, 255);
     color:white;
 display: flex;
+justify-content: space-around;
 }
